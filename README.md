@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 LinkedIn:
-(https://www.linkedin.com/in/shubham-gharage-a7283437b?utm_source=chatgpt.com)
+(https://www.linkedin.com/in/shubham-gharage)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamgharage1@gmail.com) 
 
 # 💻 Tech Stack:
