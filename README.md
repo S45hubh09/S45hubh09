@@ -3,9 +3,8 @@
 
 
 ## 🌐 Socials:
-LinkedIn:
-[(linkedin.com/in/shubham-gharage-a7283437b)
-(https://www.linkedin.com/in/shubham-gharage-a7283437b)
+💼[ LinkedIn:( https://www.linkedin.com/in/shubham-gharage-a7283437b)]
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamgharage1@gmail.com) 
 
 # 💻 Tech Stack:
